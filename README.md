@@ -3,7 +3,7 @@
 ..
 
 # Video
-
+- [Learn GLSL Shaders from Scratch](https://www.udemy.com/course/learn-glsl-shaders-from-scratch/) (BV1kP4y1Y7MT)
 
 # Book
 - [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
