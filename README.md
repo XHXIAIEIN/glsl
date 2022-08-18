@@ -8,7 +8,7 @@
 - [Pixel Shaders by Toby Schachman](http://pixelshaders.com/)
 - [Examples: Pixel Shaders](https://github.com/electronicwhisper/pixel-shaders)
 - [Examples: GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV)
-- [Examples: GLSL](https://github.com/yadongx/glsl
+- [Examples: GLSL](https://github.com/yadongx/glsl)
 
 # Construct 
 - [Construct 3 Effects Manual](https://www.construct.net/en/make-games/manuals/addon-sdk/guide/configuring-effects#internalH1Link2)
